@@ -1,0 +1,69 @@
+# Node modules
+/node_modules
+
+# Build output
+/build
+
+# Local development environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional eslint cache
+.eslintcache
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Coverage directory used by tools like jest
+/coverage
+
+# Next.js build output
+.next
+
+# Nuxt.js build output
+.nuxt
+
+# Gatsby files
+.cache
+public
+
+# Serverless Framework files
+.serverless/
+
+# DynamoDB Local files
+dynamodb_local_db
+
+# Sapper files
+__sapper__/
+
+# Optional dependency directories
+.babel_cache/
+.storybook-out/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Prisma
+.prisma/
+
+# TypeScript
+*.tsbuildinfo
+
+# React Native
+.expo/
